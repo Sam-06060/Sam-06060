@@ -9,7 +9,7 @@ I build intelligent, deeply integrated native applications that prioritize on-de
 
 ### What I've Built
 
-**Jarvis (macOS Native) (https://github.com/Sam-06060/jarvis-assistant)** — A privacy-first, voice-controlled personal assistant. Runs entirely on local hardware using Ollama (3.1 3B), leveraging the Apple Neural Engine for zero-cloud dependency and optimal thermals. Features a custom hybrid STT engine (Apple Speech + Whisper) for instant transcription, "Mimic" macro recording, "DeadDrop" file transfers, and secure Face ID authentication.
+**Jarvis (macOS Native) (https://github.com/Sam-06060/jarvis-assistant)** — A privacy-first, voice-controlled personal assistant. Runs entirely on online llms and can load llms locally on-demand and when offline, leveraging the Apple Neural Engine for zero-cloud dependency and optimal thermals. Features a custom hybrid STT engine (Apple Speech + Whisper) for instant transcription, "Mimic" macro recording, "DeadDrop" file transfers, and secure Face ID authentication.
 
 **Tree Species Detection (Android)** — Mobile client-server application for local flora identification. Integrates a modern Android UI with a Railway-hosted backend for heavy image analysis, featuring seamless API integration and robust local CSV data export functionality.
 
