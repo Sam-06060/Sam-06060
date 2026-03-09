@@ -1,4 +1,11 @@
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&color=000000&width=800&pause=1000&lines=>_+I'm+Samson;>_+Native+Mobile+Developer;>_+Building+Personal+Desktop+Assistant+AI)
+<h2>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&color=FFFFFF&width=800&pause=1000&lines=>_+I'm+Samson;>_+Native+Mobile+Developer;>_+Building+Personal+Desktop+Assistant+AI">
+<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&color=000000&width=800&pause=1000&lines=>_+I'm+Samson;>_+Native+Mobile+Developer;>_+Building+Personal+Desktop+Assistant+AI">
+<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&color=000000&width=800&pause=1000&lines=>_+I'm+Samson;>_+Native+Mobile+Developer;>_+Building+Personal+Desktop+Assistant+AI">
+</picture>
+</h2>
+
 <img src="https://komarev.com/ghpvc/?username=Sam-06060&color=0D4715&style=flat" height="25px"/>
 
 **Native Mobile Developer / Local AI Enthusiast**
